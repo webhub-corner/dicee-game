@@ -1,0 +1,30 @@
+body{
+background-color: black;
+text-align: center;
+margin: auto;
+}
+h1{
+    font-size: 6rem;
+    font-family: 'Love Ya Like A Sister', cursive;
+    color:#E57C23;
+}
+div {
+    display:inline-block;
+
+}
+p {
+    color:#025464;
+    font-size: 3rem;
+    font-family: 'Londrina Sketch', cursive;
+   
+    
+}
+img{
+    margin: 10px 10px;
+    padding-left:20px;
+}
+footer{
+    color: #F2D8D8;
+    font-family:cursive;
+}
+   
